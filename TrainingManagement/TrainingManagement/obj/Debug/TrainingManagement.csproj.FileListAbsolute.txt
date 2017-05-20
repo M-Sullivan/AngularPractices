@@ -1,0 +1,17 @@
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\TrainingManagement.dll.config
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\TrainingManagement.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\TrainingManagement.pdb
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\EntityFramework.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\Newtonsoft.Json.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Net.Http.Formatting.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Web.Http.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Web.Http.WebHost.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\EntityFramework.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\Newtonsoft.Json.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Net.Http.Formatting.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Web.Http.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\bin\System.Web.Http.WebHost.xml
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\obj\Debug\TrainingManagement.dll
+C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\obj\Debug\TrainingManagement.pdb
