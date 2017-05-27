@@ -1,2 +1,0 @@
-C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\Scripts\app\bootstrapper.js
-C:\Users\MSullivan\Source\Repos\AngularPractices\TrainingManagement\TrainingManagement\Scripts\app\bootstrapper.js.map
