@@ -1,2 +1,2 @@
 # AngularPractices
-A site to demonstrate angular, angular material and typescript   
+A reference product to illustrait the complexities of modern web applications.
